@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application 2</string>
+
+    <string name="intro">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="Author">Made by: Pavneet Singh</string>
+</resources>
